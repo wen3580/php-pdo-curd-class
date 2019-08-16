@@ -7,6 +7,8 @@
  */
 define('MAIN',realpath('../'));
 define('LOG',MAIN . '/log');
+const MASTER_EXPIRE   = 3600 *12;
+
 
 const DB_IP   = '127.0.0.1';
 const DB_NAME = 'test';
