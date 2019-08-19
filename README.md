@@ -1,4 +1,4 @@
-# php-db-curd-class
+# php-pdo-curd-class
 
 PDO/MYSQL CURL CLASS
 
